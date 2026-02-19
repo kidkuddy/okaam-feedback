@@ -1,0 +1,53 @@
+{
+  "synced_at": "2026-02-19T14:03:58.270Z",
+  "feedback": {
+    "wttj-sunstice-cloud-engineer": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-19T13:46:57.945Z"
+    },
+    "wttj-pigment-junior-sre": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-19T13:47:05.421Z"
+    },
+    "wttj-sunstice-saas-ops": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-19T13:47:09.116Z"
+    },
+    "wttj-credit-agricole-devops": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-19T13:47:11.473Z"
+    },
+    "wttj-ironhack-alternance": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-19T13:47:13.031Z"
+    },
+    "wttj-4sh-infrastructure": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-19T13:47:21.226Z"
+    },
+    "hellowork-xefi-devops": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-19T13:48:37.001Z"
+    },
+    "hellowork-enova-linux": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-19T13:48:39.491Z"
+    },
+    "remoteok-accenture-cloud": {
+      "status": null,
+      "remark": "no US-based jobs please"
+    },
+    "remoteok-permitflow-security": {
+      "status": null,
+      "remark": "no US-based jobs please"
+    }
+  }
+}
