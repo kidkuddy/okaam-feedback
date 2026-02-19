@@ -1,53 +1,60 @@
 {
-  "synced_at": "2026-02-19T14:03:58.270Z",
+  "synced_at": "2026-02-19T15:59:44.185Z",
   "feedback": {
-    "wttj-sunstice-cloud-engineer": {
-      "status": "applied",
-      "remark": "",
-      "timestamp": "2026-02-19T13:46:57.945Z"
-    },
     "wttj-pigment-junior-sre": {
       "status": "applied",
       "remark": "",
-      "timestamp": "2026-02-19T13:47:05.421Z"
+      "timestamp": "2026-02-19T15:58:11.436Z"
+    },
+    "wttj-sunstice-cloud-engineer": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-19T15:58:17.731Z"
     },
     "wttj-sunstice-saas-ops": {
       "status": "applied",
       "remark": "",
-      "timestamp": "2026-02-19T13:47:09.116Z"
+      "timestamp": "2026-02-19T15:58:18.681Z"
     },
     "wttj-credit-agricole-devops": {
       "status": "applied",
       "remark": "",
-      "timestamp": "2026-02-19T13:47:11.473Z"
+      "timestamp": "2026-02-19T15:58:20.258Z"
     },
-    "wttj-ironhack-alternance": {
+    "wttj-ironhack-alternance-devops": {
       "status": "ignored",
-      "remark": "",
-      "timestamp": "2026-02-19T13:47:13.031Z"
+      "remark": "I can't apply to jobs from schools like this.",
+      "timestamp": "2026-02-19T15:58:42.924Z"
     },
     "wttj-4sh-infrastructure": {
       "status": "applied",
       "remark": "",
-      "timestamp": "2026-02-19T13:47:21.226Z"
+      "timestamp": "2026-02-19T15:59:14.803Z"
     },
     "hellowork-xefi-devops": {
       "status": "applied",
       "remark": "",
-      "timestamp": "2026-02-19T13:48:37.001Z"
+      "timestamp": "2026-02-19T15:59:27.815Z"
     },
-    "hellowork-enova-linux": {
+    "hellowork-enova-linux-devops": {
       "status": "applied",
       "remark": "",
-      "timestamp": "2026-02-19T13:48:39.491Z"
+      "timestamp": "2026-02-19T15:59:28.890Z"
     },
-    "remoteok-accenture-cloud": {
-      "status": null,
-      "remark": "no US-based jobs please"
+    "hellowork-leroy-merlin-devops-alt": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-19T15:59:30.576Z"
     },
-    "remoteok-permitflow-security": {
-      "status": null,
-      "remark": "no US-based jobs please"
+    "hellowork-macif-devops-alt": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-19T15:59:31.527Z"
+    },
+    "hellowork-dsti-ml-engineer-alt": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-19T15:59:42.216Z"
     }
   }
 }
