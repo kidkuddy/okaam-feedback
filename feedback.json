@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-02-19T18:39:11.034Z",
+  "synced_at": "2026-02-20T19:26:19.774Z",
   "feedback": {
     "wttj-sunstice-cloud-engineer": {
       "status": "applied",
@@ -88,6 +88,121 @@
       "status": "applied",
       "remark": "",
       "timestamp": "2026-02-19T18:37:02.916Z"
+    },
+    "wttj-sunstice-cloud-dev": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-20T18:48:02.973Z"
+    },
+    "wttj-anssi-cloud-auditor": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-20T18:48:10.868Z"
+    },
+    "wttj-natixis-production-engineer": {
+      "status": "applied",
+      "remark": "5 years exp required",
+      "timestamp": "2026-02-20T19:05:32.040Z"
+    },
+    "reddit-devopsjobs-hiring": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-20T18:55:34.658Z"
+    },
+    "wttj-linxea-qa-junior": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-20T19:03:53.865Z"
+    },
+    "wttj-ironhack-devops-alt": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-20T19:03:54.343Z"
+    },
+    "wttj-addactis-cloud-alt": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-20T19:03:55.784Z"
+    },
+    "wttj-soregies-data-engineer-alt": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-20T19:05:29.541Z"
+    },
+    "wttj-moodwork-data-analyst-alt": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-20T19:06:31.268Z"
+    },
+    "wttj-rail-europe-sw-junior": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-20T19:06:32.040Z"
+    },
+    "arbeitnow-cygrid-founding-devops-sre": {
+      "status": "ignored",
+      "remark": "requiring +5y experience",
+      "timestamp": "2026-02-20T19:07:40.569Z"
+    },
+    "arbeitnow-bonify-it-sysadmin": {
+      "status": "ignored",
+      "remark": "5-7 years of experience",
+      "timestamp": "2026-02-20T19:07:41.001Z"
+    },
+    "remoteok-ubiminds-devops-cicd": {
+      "status": "ignored",
+      "remark": "mid-level",
+      "timestamp": "2026-02-20T19:07:52.120Z"
+    },
+    "linkedin-tn-crossrealms-ai": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-20T19:07:57.635Z"
+    },
+    "linkedin-tn-crossrealms-sw": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-20T19:07:58.460Z"
+    },
+    "linkedin-tn-aubay-automation": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-20T19:25:40.403Z"
+    },
+    "linkedin-tn-blauwtrust-devops-data": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-20T19:25:54.070Z"
+    },
+    "linkedin-tn-blauwtrust-azure": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-20T19:25:55.692Z"
+    },
+    "linkedin-tn-devoteam-data": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-20T19:25:56.467Z"
+    },
+    "linkedin-tn-linedata-pfe": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-20T19:25:57.067Z"
+    },
+    "linkedin-tn-alphav-sw": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-20T19:26:07.950Z"
+    },
+    "linkedin-tn-iobeya-devops": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-20T19:26:08.754Z"
+    },
+    "linkedin-tn-maibornwolff-qa": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-20T19:26:09.438Z"
     }
   }
 }
