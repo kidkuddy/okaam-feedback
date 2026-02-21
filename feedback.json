@@ -1,5 +1,5 @@
 {
-  "synced_at": "2026-02-20T19:26:19.774Z",
+  "synced_at": "2026-02-21T23:56:05.840Z",
   "feedback": {
     "wttj-sunstice-cloud-engineer": {
       "status": "applied",
@@ -203,6 +203,66 @@
       "status": "applied",
       "remark": "",
       "timestamp": "2026-02-20T19:26:09.438Z"
+    },
+    "wttj-cnp-data-analyst-alt": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-21T23:26:03.996Z"
+    },
+    "wttj-banque-postale-data-analyst-alt": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-21T23:26:04.925Z"
+    },
+    "wttj-schneider-cybersecurity-alt": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-21T23:26:09.527Z"
+    },
+    "wttj-reversio-qa-automation-alt": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-21T23:26:13.856Z"
+    },
+    "wttj-capgemini-fullstack-alt": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-21T23:26:29.839Z"
+    },
+    "wttj-cofidis-data-analyst-alt": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-21T23:26:33.488Z"
+    },
+    "reddit-junior-fullstack-remote": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-21T23:27:31.965Z"
+    },
+    "remotive-fluence-fullstack": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-21T23:32:03.801Z"
+    },
+    "remotive-shopware-cloud-infra": {
+      "status": "ignored",
+      "remark": "",
+      "timestamp": "2026-02-21T23:32:04.946Z"
+    },
+    "arbeitnow-techninstitut-junior-devops-dozent": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-21T23:37:37.943Z"
+    },
+    "arbeitnow-pont-devops-platform": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-21T23:37:58.629Z"
+    },
+    "arbeitnow-myhumancapital-devsecops": {
+      "status": "applied",
+      "remark": "",
+      "timestamp": "2026-02-21T23:37:59.076Z"
     }
   }
 }
